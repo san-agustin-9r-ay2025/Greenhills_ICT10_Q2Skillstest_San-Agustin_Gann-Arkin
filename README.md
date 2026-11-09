@@ -1,0 +1,2 @@
+# Greenhills_ICT10_Q2Skillstest_San-Agustin_Gann-Arkin
+periodic table information finder
